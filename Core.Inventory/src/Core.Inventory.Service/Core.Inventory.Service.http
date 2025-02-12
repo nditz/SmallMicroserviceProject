@@ -1,0 +1,6 @@
+@Core.Inventory.Service_HostAddress = http://localhost:5141
+
+GET {{Core.Inventory.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

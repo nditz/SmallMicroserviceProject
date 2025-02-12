@@ -1,0 +1,12 @@
+E:\code\2025\SmallMicroserviceProject\Core.Common\bin\Debug\net9.0\Core.Common.deps.json
+E:\code\2025\SmallMicroserviceProject\Core.Common\bin\Debug\net9.0\Core.Common.dll
+E:\code\2025\SmallMicroserviceProject\Core.Common\bin\Debug\net9.0\Core.Common.pdb
+E:\code\2025\SmallMicroserviceProject\Core.Common\obj\Debug\net9.0\Core.Common.csproj.AssemblyReference.cache
+E:\code\2025\SmallMicroserviceProject\Core.Common\obj\Debug\net9.0\Core.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\2025\SmallMicroserviceProject\Core.Common\obj\Debug\net9.0\Core.Common.AssemblyInfoInputs.cache
+E:\code\2025\SmallMicroserviceProject\Core.Common\obj\Debug\net9.0\Core.Common.AssemblyInfo.cs
+E:\code\2025\SmallMicroserviceProject\Core.Common\obj\Debug\net9.0\Core.Common.csproj.CoreCompileInputs.cache
+E:\code\2025\SmallMicroserviceProject\Core.Common\obj\Debug\net9.0\Core.Common.dll
+E:\code\2025\SmallMicroserviceProject\Core.Common\obj\Debug\net9.0\refint\Core.Common.dll
+E:\code\2025\SmallMicroserviceProject\Core.Common\obj\Debug\net9.0\Core.Common.pdb
+E:\code\2025\SmallMicroserviceProject\Core.Common\obj\Debug\net9.0\ref\Core.Common.dll
