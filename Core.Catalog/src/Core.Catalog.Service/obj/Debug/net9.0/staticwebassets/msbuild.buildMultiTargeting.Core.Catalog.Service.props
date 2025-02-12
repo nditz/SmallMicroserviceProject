@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Core.Catalog.Service.props" />
+</Project>

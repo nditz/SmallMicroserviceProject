@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tzvGLydO+hrbCDnwXTZN7OSV4ZMPiOUsswKl3NBmxxA=",
+  "Source": "Core.Inventory.Service",
+  "BasePath": "_content/Core.Inventory.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

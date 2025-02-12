@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6gip8LPpI9gO4QmoxlMMgQZj+P+Nu34U0v+Yrk4hZ8A=",
+  "Source": "Core.Catalog.Service",
+  "BasePath": "_content/Core.Catalog.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
